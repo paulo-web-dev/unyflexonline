@@ -12,7 +12,8 @@ class IndexController extends Controller
 {
   
     public function home(){
-        return view('home');
+     
+        return view('home2');
     }
 
     public function assinatura(){
@@ -26,7 +27,7 @@ class IndexController extends Controller
                 'title'      => 'Cursos Unyflex',
                 'quantity'   => 1,
                 'currency_id'=> 'BRL',
-                'unit_price' => 990, 
+                'unit_price' => 0.6, 
                 'installments' => 12   
             ],
             // Adicione mais itens conforme necessário
