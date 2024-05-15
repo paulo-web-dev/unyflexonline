@@ -9,7 +9,7 @@
     </div>
     <!--=========== Loader =============-->
 
-@include('ava.header')
+@include('ava.header') 
     <!-- owl-carousel Banner Start -->
  <!-- Single movie Start -->
     <section class="gen-section-padding-3 gen-single-movie">
