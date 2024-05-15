@@ -4,7 +4,7 @@
  <!--=========== Loader =============-->
     <div id="gen-loading">
         <div id="gen-loading-center">
-            <h1>UNYFLEX ONLINE</h1>
+            <h1>UNYFLEX ONLINE!</h1>
         </div>
     </div>
     <!--=========== Loader =============-->
